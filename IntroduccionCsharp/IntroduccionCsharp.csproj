@@ -122,12 +122,13 @@
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="Controllers\DistanciaController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
-    <Compile Include="Controllers\MultiController.cs" />
+    <Compile Include="Controllers\MultiplicadorController.cs" />
     <Compile Include="Controllers\PruebaController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
     <Compile Include="Models\Distancia.cs" />
+    <Compile Include="Models\MultiplicacionSuma.cs" />
     <Compile Include="Models\OperasBas.cs" />
     <Compile Include="Models\Pelicula.cs" />
     <Compile Include="Models\Practica1.cs" />
@@ -136,6 +137,7 @@
     <Compile Include="Service\PeliculasService.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include=".gitignore" />
     <Content Include="Content\bootstrap-grid.css" />
     <Content Include="Content\bootstrap-grid.min.css" />
     <Content Include="Content\bootstrap-grid.rtl.css" />
@@ -191,6 +193,8 @@
     <Content Include="Views\Prueba\MuestraPeliculas.cshtml" />
     <Content Include="Views\Prueba\Calculos.cshtml" />
     <Content Include="Views\Distancia\Distancia.cshtml" />
+    <Content Include="Views\Multiplicacion\Multi.cshtml" />
+    <Content Include="Views\Multiplicacion\Index.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

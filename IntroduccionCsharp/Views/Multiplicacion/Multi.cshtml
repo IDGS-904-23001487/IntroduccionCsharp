@@ -1,0 +1,60 @@
+﻿@model IntroduccionCsharp.Models.MultiplicacionSuma
+
+@{
+    ViewBag.Title = "Multiplicación";
+}
+
+<div class="container mt-4">
+
+    <h2>Multiplicación por sumas</h2>
+    <hr />
+
+    <div class="row">
+
+        <div class="col-md-6">
+
+            @using (Html.BeginForm("Index", "Multiplicacion", FormMethod.Post))
+            {
+                <div class="form-group mb-3">
+                    @Html.LabelFor(model => model.Num1, "Número 1")
+                    @Html.TextBoxFor(model => model.Num1,
+                        new { @class = "form-control", type = "number" })
+
+                    @Html.ValidationMessageFor(model => model.Num1, "",
+                        new { @class = "text-danger" })
+                </div>
+
+                <div class="form-group mb-3">
+                    @Html.LabelFor(model => model.Num2, "Número 2")
+                    @Html.TextBoxFor(model => model.Num2,
+                        new { @class = "form-control", type = "number" })
+
+                    @Html.ValidationMessageFor(model => model.Num2, "",
+                        new { @class = "text-danger" })
+                </div>
+
+                <button type="submit" class="btn btn-primary">
+                    Calcular
+                </button>
+            }
+
+        </div>
+
+        <div class="col-md-6">
+
+            @if (!string.IsNullOrEmpty(Model.ResultadoTexto))
+            {
+                <div class="alert alert-success mt-3">
+                    <h4>Resultado</h4>
+                    <p>@Model.ResultadoTexto</p>
+                </div>
+            }
+
+        </div>
+
+    </div>
+</div>
+
+@section Scripts{
+    @Scripts.Render("~/bundles/jqueryval")
+}

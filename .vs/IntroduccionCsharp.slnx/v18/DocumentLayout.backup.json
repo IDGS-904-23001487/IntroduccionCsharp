@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\crist\\Documents\\Cardiel904\\IntroduccionCsharp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FD52ACFB-8E11-4774-8386-09AA5F87EFAA}|IntroduccionCsharp\\IntroduccionCsharp.csproj|c:\\users\\crist\\documents\\cardiel904\\introduccioncsharp\\introduccioncsharp\\views\\multiplicacion\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD52ACFB-8E11-4774-8386-09AA5F87EFAA}|IntroduccionCsharp\\IntroduccionCsharp.csproj|solutionrelative:introduccioncsharp\\views\\multiplicacion\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD52ACFB-8E11-4774-8386-09AA5F87EFAA}|IntroduccionCsharp\\IntroduccionCsharp.csproj|C:\\Users\\crist\\Documents\\Cardiel904\\IntroduccionCsharp\\introduccioncsharp\\models\\multiplicacionsuma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD52ACFB-8E11-4774-8386-09AA5F87EFAA}|IntroduccionCsharp\\IntroduccionCsharp.csproj|solutionrelative:introduccioncsharp\\models\\multiplicacionsuma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD52ACFB-8E11-4774-8386-09AA5F87EFAA}|IntroduccionCsharp\\IntroduccionCsharp.csproj|C:\\Users\\crist\\Documents\\Cardiel904\\IntroduccionCsharp\\introduccioncsharp\\controllers\\multiplicadorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD52ACFB-8E11-4774-8386-09AA5F87EFAA}|IntroduccionCsharp\\IntroduccionCsharp.csproj|solutionrelative:introduccioncsharp\\controllers\\multiplicadorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD52ACFB-8E11-4774-8386-09AA5F87EFAA}|IntroduccionCsharp\\IntroduccionCsharp.csproj|C:\\Users\\crist\\Documents\\Cardiel904\\IntroduccionCsharp\\introduccioncsharp\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD52ACFB-8E11-4774-8386-09AA5F87EFAA}|IntroduccionCsharp\\IntroduccionCsharp.csproj|solutionrelative:introduccioncsharp\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\crist\\Documents\\Cardiel904\\IntroduccionCsharp\\IntroduccionCsharp\\Views\\Multiplicacion\\Index.cshtml",
+              "RelativeDocumentMoniker": "IntroduccionCsharp\\Views\\Multiplicacion\\Index.cshtml",
+              "ToolTip": "C:\\Users\\crist\\Documents\\Cardiel904\\IntroduccionCsharp\\IntroduccionCsharp\\Views\\Multiplicacion\\Index.cshtml",
+              "RelativeToolTip": "IntroduccionCsharp\\Views\\Multiplicacion\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-14T00:50:27.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MultiplicacionSuma.cs",
+              "DocumentMoniker": "C:\\Users\\crist\\Documents\\Cardiel904\\IntroduccionCsharp\\IntroduccionCsharp\\Models\\MultiplicacionSuma.cs",
+              "RelativeDocumentMoniker": "IntroduccionCsharp\\Models\\MultiplicacionSuma.cs",
+              "ToolTip": "C:\\Users\\crist\\Documents\\Cardiel904\\IntroduccionCsharp\\IntroduccionCsharp\\Models\\MultiplicacionSuma.cs",
+              "RelativeToolTip": "IntroduccionCsharp\\Models\\MultiplicacionSuma.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAkwC0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T00:41:46.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MultiplicadorController.cs",
+              "DocumentMoniker": "C:\\Users\\crist\\Documents\\Cardiel904\\IntroduccionCsharp\\IntroduccionCsharp\\Controllers\\MultiplicadorController.cs",
+              "RelativeDocumentMoniker": "IntroduccionCsharp\\Controllers\\MultiplicadorController.cs",
+              "ToolTip": "C:\\Users\\crist\\Documents\\Cardiel904\\IntroduccionCsharp\\IntroduccionCsharp\\Controllers\\MultiplicadorController.cs",
+              "RelativeToolTip": "IntroduccionCsharp\\Controllers\\MultiplicadorController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T00:39:59.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\crist\\Documents\\Cardiel904\\IntroduccionCsharp\\IntroduccionCsharp\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "IntroduccionCsharp\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\crist\\Documents\\Cardiel904\\IntroduccionCsharp\\IntroduccionCsharp\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "IntroduccionCsharp\\App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T00:33:11.562Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
